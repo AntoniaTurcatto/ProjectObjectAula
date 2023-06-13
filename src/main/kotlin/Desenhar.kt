@@ -1,0 +1,3 @@
+interface Desenhar {
+    fun desenhar()
+}
